@@ -1,3 +1,7 @@
+ Simplify your reading with Summize, an open-source article summarizer
+ that transforms lengthy articles into clear and concise summaries. It takes 5 - 10 seconds
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
