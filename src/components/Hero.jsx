@@ -19,8 +19,10 @@ const Hero = () => {
       </h1>
       <h2 className="desc">
         Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise
-        <br className="max-md:hidden" /> summaries. It takes 5 - 10 seconds
+        <br className="max-md:hidden" /> that transforms lengthy articles into
+        clear and concise summaries.
+        <br className="max-md:hidden" /> It takes 5 - 10 seconds. Since its
+        using free version of RapidApi its limited to 50 requests for month.
       </h2>
     </header>
   );
